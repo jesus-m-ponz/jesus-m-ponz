@@ -6,7 +6,8 @@ These are the technologies I have used to realize them.
 ![image](https://user-images.githubusercontent.com/106546497/171028558-a709e5ef-b242-49fc-a1ab-b40764ab737a.png)
 ![image](https://user-images.githubusercontent.com/106546497/171028461-bbc2d6b4-329a-488f-b3df-78bd992815fb.png)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/26DMW5ezY0HyXDxiE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/food-loop-white-26DMW5ezY0HyXDxiE">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/26DMW5ezY0HyXDxiE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/food-loop-white-26DMW5ezY0HyXDxiE">via GIPHY</a></p>
+
 
 
 <!---
